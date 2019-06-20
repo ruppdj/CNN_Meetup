@@ -1,6 +1,11 @@
 # Intro to Computer Vision & Neural Nets!
 
+## Create your own Cat Dog classifier with Keras
+- [A cool link to use Google CoLab to build and train your own CNN](https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb)
 
+
+
+-------
 ### Soft Introductions to Concepts
 - [Intor to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
@@ -8,7 +13,8 @@
 - [Introduction to Using AWS to train CNN's](https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/)
 - [Understanding Activation Functions](https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
 
-- A example of using Google CoLaboratory make a cat dog classifier that you can run without loading anything can be found [here](https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb)
+
+---------
 
 
 ### Timeline and Article (For a Deeper Dive):
