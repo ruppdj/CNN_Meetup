@@ -4,10 +4,10 @@
 - [A cool link to use Google CoLab to build and train your own CNN](https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb)
 
 
-
 -------
+
 ### Soft Introductions to Concepts
-- [Intor to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+- [Intro to Neural Networks](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [Visual interactive view of CNN's](http://scs.ryerson.ca/~aharley/vis/conv/flat.html)
 - [Introduction to Using AWS to train CNN's](https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/)
@@ -37,4 +37,10 @@ Convolutional Neural Networks](http://image-net.org/challenges/LSVRC/2012/superv
 
 ---
 
+### Videos 
+
+[A good Coursera class on CNN](https://www.coursera.org/learn/convolutional-neural-networks)
+  
+
+### Slides 
 You can access the slides [here](https://docs.google.com/presentation/d/1zFTJP5_oBVZXNEmOO7AqRwL3vaS9zUfdCfjU2Fpq9rY/edit?usp=sharing)
